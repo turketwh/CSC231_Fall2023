@@ -164,13 +164,13 @@ public class ParserTest {
 
     @Test
     public void testC() {
-        // a word not used previously that is in language A, and its derivation
+        // a word not used previously that is in your assigned language, and its derivation
 
     }
 
     @Test
     public void testD() {
-        // a word not used previously that is not in language A, and its error message
+        // a word not used previously that is not your assigned language, and its error message
 
     }
     */
